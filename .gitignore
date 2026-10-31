@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Data files and model artifacts
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Office/PDF deliverables
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+
+# Large local data folders
+USGS_Downloads/
